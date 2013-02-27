@@ -3,6 +3,8 @@ Underscore.js cheatsheet
 
 User styles for printing Underscore.js reference as a one-page cheatsheet.
 
+[<img src="http://files.tarantsov.com/cheatsheets/underscorejs-preview-bordered.png" width="800" height="500" alt="">](http://files.tarantsov.com/cheatsheets/underscorejs.pdf)
+
 Download [underscorejs.pdf](http://files.tarantsov.com/cheatsheets/underscorejs.pdf)
 
 Print it yourself:
@@ -13,5 +15,3 @@ Print it yourself:
 4. Print 2 pages per sheet with no headers/footers.
 
 Pull requests are welcome!
-
-![PDF preview](http://files.tarantsov.com/cheatsheets/underscorejs-preview.png)

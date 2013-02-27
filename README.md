@@ -1,7 +1,7 @@
 Underscore.js cheatsheet
 ========================
 
-User styles for printing [Underscore.js web site](http://underscorejs.org/) as a one-page cheatsheet.
+User styles for printing Underscore.js reference as a one-page cheatsheet.
 
 Download [underscorejs.pdf](http://files.tarantsov.com/cheatsheets/underscorejs.pdf)
 
